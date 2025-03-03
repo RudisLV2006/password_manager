@@ -1,1 +1,14 @@
+/out
 .env
+
+### Idea ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+###VS CODE###
+.vscode/
